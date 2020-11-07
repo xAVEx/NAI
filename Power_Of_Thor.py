@@ -1,3 +1,5 @@
+#https://www.codingame.com/ide/puzzle/power-of-thor-episode-1 Filip Wrzesień s16720
+
 import sys
 import math
 

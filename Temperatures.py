@@ -1,3 +1,5 @@
+#https://www.codingame.com/ide/puzzle/temperatures Filip Wrzesień s16720
+
 import sys
 import math
 
